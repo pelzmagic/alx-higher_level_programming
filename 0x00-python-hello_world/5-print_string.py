@@ -1,1 +1,4 @@
-VimCrypt~01!™&XøÛËËMUÅFz,ïê¢½aŸ2Í–(#1fGmŸS'ã¹7Ø·ûteþ‚xJ	bV3	(žG>þˆòb\ü–ÁŽ«è_Ã•«
+#!/usr/bin/python3
+str = "Holberton School"
+print(3 * str)
+print(str[0:9])
