@@ -1,1 +1,4 @@
-VimCrypt~01!™&XøÛËËMUÅFz,ïê¢½{I9İËÛºtŠŸÆtVs«dÂùÓ×½‹‰Gsüø(&µp‰ìí­@æg„I²àRíÓH¢®ÙU«ÚE8TIxCzŒÇj„d&´Eîö¥}¨Ú[¿‚’éDçê]ş’_°
+#!/usr/bin/python3
+import sys
+sys.stderr.write("and that piece of art is useful - Dora Korpar, 2015-10-19\n")
+exit(1)
